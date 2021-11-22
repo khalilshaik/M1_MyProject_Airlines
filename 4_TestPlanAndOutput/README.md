@@ -11,6 +11,7 @@ After entered 4 which is exit function, it is storing all the records into file 
 |H\_01|Airline’s reservation|<p>Please choose from A1-A4</p><p>Choose: 5</p>|error|error|Requirement based|
 |H\_02|Enter Passport number|` `Passport\_No:40020|0|0|Scenario based|
 |H\_03|Invalid range of input|Password:3838882|-9|-9|Boundary based|
+
 **Table no: Low level test plan**
 
 |**Test ID**|**Description**|**Exp IN**|**Exp OUT**|**Actual Out**|**Type Of Test**|
