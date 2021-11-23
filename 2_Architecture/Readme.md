@@ -1,6 +1,6 @@
 # Architecture
 
-**Behavioural Diagrams**
+## Behavioural Diagrams
 
 **- Activity Diagram**
 
@@ -8,7 +8,7 @@
 
 **- Sequence Diagram**
 
-**Structural Diagrams**
+## Structural Diagrams
 
 **- Class Diagram**
 
