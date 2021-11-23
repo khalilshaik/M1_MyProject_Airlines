@@ -1,18 +1,18 @@
-﻿**Requirements** 
+# Requirements
 
-**Introduction:**
+## Introduction:
 
 The Airline reservation system is designed for users to reserve a seat, cancel, display seat and exit the system. A formula is included in the function to calculate the seats are reserved. A few flow charts are also created for explaining the process of the Airline reservation system. 
 
 A small airline has just purchased a computer for its new automated reservation system. Here, I am writing a program to assign seats on each flight of the airlines only place (capacity: 15 seats). This program should never assign a seat which is already assigned. If there’s no seat available, then print the message " the flight is full ".
 
-**Research:**
+## Research:
 
 Online Air Ticketing is a kind of user assistance where customers can book tickets for flight online. This models airline performance as a function of computerized reservations systems ownership at two levels: for selected city-pairs and at the overall level of the firm. 
 
 **https://en.wikipedia.org/wiki/Airline\_ticket**
 
-**Cost and Features and Timeline:**
+## Cost and Features and Timeline:
 
 **(a)Cost:** 
 
@@ -32,11 +32,11 @@ The flight booking app’s cost depends on distinct features that you want to ap
 
 We chose events that depict the gradual change of reservation systems, giving a solid understanding of how airline distribution developed. By looking at this history timeline, you’ll be able to understand, at least partially, how the modern flight reservation market formed.
 
-**Defining Our System:**
+## Defining Our System:
 
 The airline reservation system is a web-based booking solution that helps in consolidating data from all airlines through the use of global distribution systems. The system provides inventory and rates in real time to customers as well as travel agents.
 
-` `**SWOT Analysis:**
+`## SWOT Analysis:
 
 ![](Aspose.Words.d7d7f6b1-41f7-4b2f-a3df-cc313ad6ca61.001.jpeg)
 
@@ -64,7 +64,7 @@ A global economic downturn negatively affects leisure.
 
 An upward spike can destabilize the business model.
 
-**4W's and 1'H**
+## 4W's and 1'H
 
 **1.Who:**
 
@@ -82,14 +82,14 @@ When customer's fill the details has to be stored and maintain in DB
 
 At present the project execution lunch locally on system
 
-**How:**
+## How:
 
 Based on the research, identifying the features and implementing the requirements in the C programming language and test them to delivering the product.
 
 
-**Details of Requirements:**
+# Details of Requirements:
 
-**High level requirements:**
+## High level requirements:
 
 |**ID**|**Description**|**Status**|
 | :-: | :-: | :-: |
@@ -97,7 +97,7 @@ Based on the research, identifying the features and implementing the requirement
 |2|Enable online customers registration system and generate user statistics.|Implemented|
 |3|Provides up-to-date information and the Customers and available flight.|Implemented|
 
-**Software Requirements:**
+## Software Requirements:
 
 |**ID**|**Description**|**Status**|
 | :-: | :-: | :-: |
