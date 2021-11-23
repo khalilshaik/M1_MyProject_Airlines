@@ -1,4 +1,4 @@
-﻿**Screenshots**
+# Screenshots
 
 ![](Aspose.Words.3919a884-1c78-4932-8eb0-e2732cd6bd20.001.png)
 
