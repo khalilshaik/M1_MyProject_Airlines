@@ -15,3 +15,4 @@
 # Code Inspector 
 
 ![code](https://img.shields.io/badge/Code%20Inspector-A-brightgreen)
+![](https://img.shields.io/badge/Code%20Quality%20Score-100-brightgreen)
